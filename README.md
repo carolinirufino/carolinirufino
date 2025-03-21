@@ -1,36 +1,14 @@
-# Olá, sou Carolini! 👋
+# Olá, sou Carolini! 👋  
 
-Seja bem-vindo(a) ao meu perfil do GitHub! Sou apaixonada por programação e sempre busco aprender mais sobre tecnologia e inovação.
+Seja bem-vindo(a) ao meu perfil do GitHub! Sou apaixonada por tecnologia e atualmente estou me especializando em **Data Science**, explorando como os dados podem gerar insights e soluções inteligentes.  
 
-## 👩‍💻 Sobre mim
-- 🔭 Atualmente, estou trabalhando em projetos de **desenvolvimento web** e **inteligência artificial**.
-- 🌱 Estou cursando este ano a **formação em Programação Full Stack** e o programa **ORACLE NEXT EDUCATION**.
-- 🎓 Busco expandir meus conhecimentos em **JavaScript**, **HTML**, **CSS** e outras tecnologias essenciais para a área.
-- 🚀 Estou participando do **programa ONE da Oracle** e **DevMedia** em 2025.
-- 💬 Estou aberta a conversar sobre **tecnologia**, **desenvolvimento web** e **inteligência artificial**.
-- 📫 Como me encontrar: [carolinirufino@gmail.com](mailto:carolinirufino@gmail.com)
-  
-## 🛠 Tecnologias e Ferramentas
-- **Linguagens**: JavaScript, HTML5, CSS3
-- **Ferramentas**: Git, GitHub, Visual Studio Code
-- **Outras**: Figma (design), Vercel (hospedagem)
+## 👩‍💻 Sobre mim  
+- 📌 **Especialização em Data Science** pelo programa **Oracle Next Education (ONE)**.  
+- 🎓 Formação em **Administração de Empresas**, migrando para a área de tecnologia e análise de dados.  
+- 🚀 Participante do **programa ONE da Oracle** e **DevMedia** em 2025.  
+- 📊 Interesse em **análise de dados, machine learning e inteligência artificial**.  
+- 💬 Sempre aberta a trocar ideias sobre **ciência de dados, tecnologia e inovação**.  
+- 📩 **Contato:** [carolinirufino@gmail.com](mailto:carolinirufino@gmail.com)  
 
-## 📈 Estatísticas
-
-![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=carolinirufino&show_icons=true&theme=radical)
-
-## 🔗 Links
-- [Meu Portfólio](https://vercel.com/carolinirufinos-projects)
-- [Meu LinkedIn](https://www.linkedin.com/in/carolinirufino/)
-  
-## 🚀 Projetos
-Aqui estão alguns dos projetos que desenvolvi e que você pode conferir:
-
-- [Projeto Imobiliária](https://github.com/carolinirufino/projeto-imobiliaria) - Uma aplicação para exibição de imóveis.
-- [Amigo Secreto Beta](https://github.com/carolinirufino/amigo-secreto-beta) - Plataforma para sorteio de Amigo Secreto.
-- [Decodificador de Texto](https://github.com/carolinirufino/decodificador-texto) - Aplicativo para codificar e decodificar mensagens.
-
-## 💬 Vamos conversar!
-
-Se você deseja colaborar ou conversar sobre qualquer um desses tópicos, fique à vontade para abrir uma issue ou me enviar uma mensagem!
-
+- 🔗 [Meu LinkedIn](https://www.linkedin.com/in/carolinirufino/)  
+- 🌎 [Meu Portfólio](https://vercel.com/carolinirufinos-projects)  
