@@ -51,10 +51,3 @@ Seja bem-vindo(a) ao meu perfil do GitHub! Sou apaixonada por tecnologia e atual
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/carolinirufino/carolinirufino/output/snake.svg" alt="Snake animation" />
-
-###
